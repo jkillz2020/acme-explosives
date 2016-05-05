@@ -1,0 +1,40 @@
+ {
+ "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "Commercial",
+            "description": "Fireworks intended for commercial use by trained individuals"
+         },
+         {
+            "id": 2,
+            "category": 0,
+            "name": "Professional",
+            "description": "Fireworks intended for professional use during holiday celebrations"
+         },
+         {
+            "id": 3,
+            "category": 1,
+            "name": "Industrial",
+            "description": "Explosives used to demolish buildings"
+         },
+         {
+            "id": 4,
+            "category": 1,
+            "name": "Industrial",
+            "description": "Explosives used for excavation and rock blasting"
+         },
+         {
+            "id": 5,
+            "category": 1,
+            "name": "Industrial",
+            "description": "Explosives used by military or special police only"
+         }
+       ]
+ }

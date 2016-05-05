@@ -1,0 +1,116 @@
+{
+"products": [
+      {
+          "id": 0,
+          "type": 0,
+          "name": "Fairy Sparklers",
+          "description": "Multi-colored sparklers that are safe for any age"
+        },
+       
+        {
+            "id": 1,
+            "type": 0,
+            "name": "Roman Candles",
+            "description": "Shoot white-hot fiery balls at your friends"
+        },
+        {
+            "id": 2,
+            "type": 0,
+            "name": "Parachute Rocket-Men",
+            "description": "50-50 chance that the parachute doesn't catch fire mid-flight dooming the man attached to it"
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "name": "Big-ass Loud Report",
+            "description": "Shakes windows in a three city block radius"
+        }, 
+        {
+            "id": 4,
+            "type": 1,
+            "name": "Sparkling American Flag Display",
+            "description": "Because MERICA"
+        },
+        {
+            "id": 5,
+            "type": 1,
+            "name": "Blinding Light",
+            "description": "Burn the crowds' retinas for a few hours"
+        },
+        {
+            "id": 6,
+            "type": 2,
+            "name": "Barge Rocket",
+            "description": "Shoots off a barge, like space-X"
+        }, 
+        {
+            "id": 7,
+            "type": 2,
+            "name": "Almost TNT",
+            "description": "Not sure why you need this unless you want to destroy the stadium"
+        },
+        {
+            "id": 8,
+            "type": 2,
+            "name": "Heart Shaped Light Show",
+            "description": "Awwwwww"
+        },
+        {
+            "id": 9,
+            "type": 3,
+            "name": "Explosive Cord",
+            "description": "Wrap around anything, watch it go boom"
+        },
+         {
+          "id": 10,
+          "type": 3,
+          "name": "TNT",
+          "description": "Take out any building"
+        },
+        { 
+            "id": 11,
+            "type": 3,
+            "name": "C-4",
+            "description": "Take out doors and concrete supports"
+        },
+        {
+            "id": 12,
+            "type": 4,
+            "name": "Bigger TNT",
+            "description": "Take out that pesky mountain or go fishing"
+        },
+        {
+            "id": 13,
+            "type": 4,
+            "name": "More C4",
+            "description": "Take out that pesky mountain range"
+        }, 
+        {
+            "id": 14,
+            "type": 4,
+            "name": "Liquid Nitroglycerine",
+            "description": "We promise it's safe, just throw it in the back of the truck and take the bounciest road"
+        },
+        {
+            "id": 15,
+            "type": 5,
+            "name": "Grenades",
+            "description": "Sends metal fragments into your targets"
+        },
+        {
+            "id": 16,
+            "type": 5,
+            "name": "C4",
+            "description": "Remotely take out heavily armored vehicles"
+        }, 
+        {
+            "id": 17,
+            "type": 5,
+            "name": "Javelin Rockets",
+            "description": "With a budget of the American Defense Dept, you can spend $750,000 per round to effortlessly take out targets"
+        }
+    ]
+}
+
+
+   
