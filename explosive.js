@@ -68,8 +68,6 @@ let thirdXHR = function loadProducts() {
   })
 };
 
-// document.getElementById("category1").addEventListener("click", function(){
-// console.log("Hello");
 firstXHR().then(function(data1) {
   categories = data1;
     return secondXHR(categories);
@@ -86,8 +84,14 @@ firstXHR().then(function(data1) {
 
 var populateDom = function () {
   products.forEach(function(product){
-    $("#explosive-products").append(`${product.name}  ${product.description} ${ } ${ }`);
-    
+    types.forEach(function(type){
+      categories.forEach(function(category){
+
+
+    $("#explosive-products").append(`<p>${product.name}</p> <p>${product.description}</p> <p>${type.name}</p> <p>${type.description}</p> <p>${category.name}</p>`);
+
+      })
+    })
   })
   
 };
